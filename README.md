@@ -1,4 +1,4 @@
-# 560-Project-Time-Series
+# Sales Forecasting Using Time Series Analysis
 
 Please visit the website of this project through this link:
 
