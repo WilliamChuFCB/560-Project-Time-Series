@@ -1,5 +1,9 @@
 # 560-Project-Time-Series
 
+Please visit the website of this project through this link:
+
+https://williamchu.georgetown.domains/project_560/
+
 ## Topic
 
 The topic of this study is about sales forecasting. This website will mainly use different models of time series to study the feasibility and methods of sales forecasting and try to forecast based on sales data of Walmart.
